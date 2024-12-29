@@ -1,0 +1,7 @@
+{
+  "name": "Derp Token",
+  "symbol": "DERP",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0xe920d1DA9A4D59126dC35996Ea242d60EFca1304"
+}

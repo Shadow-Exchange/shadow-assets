@@ -1,0 +1,97 @@
+{
+  "name": "SHADOW: Sonic List",
+  "tokens": [
+    [
+      {
+        "name": "Wrapped Sonic",
+        "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
+        "symbol": "wS",
+        "decimals": 18
+      },
+      {
+        "name": "Bridged USDC",
+        "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+        "symbol": "USDC.e",
+        "decimals": 6
+      },
+      {
+        "name": "Bridged EURC",
+        "address": "0xe715cbA7B5cCb33790ceBFF1436809d36cb17E57",
+        "symbol": "EURC.e",
+        "decimals": 6
+      },
+      {
+        "name": "Wrapped Ether on Sonic",
+        "address": "0x50c42dEAcD8Fc9773493ED674b675bE577f2634b",
+        "symbol": "WETH",
+        "decimals": 18
+      },
+      {
+        "name": "GOGGLES",
+        "address": "0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564",
+        "symbol": "GOGLZ",
+        "decimals": 18
+      },
+      {
+        "name": "Beets Staked Sonic",
+        "address": "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955",
+        "symbol": "stS",
+        "decimals": 18
+      },
+      {
+        "name": "Sonic USD",
+        "address": "0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE",
+        "symbol": "scUSD",
+        "decimals": 6
+      },
+      {
+        "address": "0xB2a909b8bCce9B30BbC9d4c748fD897d6AD9c285",
+        "name": "Ruggie's Pizza",
+        "symbol": "RUGGIE",
+        "decimals": 18
+      },
+      {
+        "address": "0x4EEC869d847A6d13b0F6D1733C5DEC0d1E741B4f",
+        "name": "Indi",
+        "symbol": "INDI",
+        "decimals": 18
+      },
+      {
+        "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+        "name": "HeyAnon",
+        "symbol": "Anon",
+        "decimals": 18
+      },
+      {
+        "address": "0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5",
+        "name": "Tin Hat Cat",
+        "symbol": "THC",
+        "decimals": 18
+      },
+      {
+        "address": "0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B",
+        "name": "Wagmi",
+        "symbol": "WAGMI",
+        "decimals": 18
+      },
+      {
+        "address": "0xe920d1DA9A4D59126dC35996Ea242d60EFca1304",
+        "name": "Derp Token",
+        "symbol": "DERP",
+        "decimals": 18
+      },
+      {
+        "address": "0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812",
+        "name": "Sonic ETH",
+        "symbol": "scETH",
+        "decimals": 18
+      },
+      {
+        "address": "0x6BA47940f738175d3F8C22Aa8EE8606eaAe45eb2",
+        "name": "SupraFi Staked Sonic",
+        "symbol": "sS",
+        "decimals": 18
+      }
+    ]
+  ]
+}
