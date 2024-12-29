@@ -127,6 +127,12 @@
         "name": "Muttski",
         "symbol": "WOOF",
         "decimals": 9
+      },
+      {
+        "address": "0x7A08Bf5304094CA4C7b4132Ef62b5EDc4a3478B7",
+        "name": "SonicEco",
+        "symbol": "ECO",
+        "decimals": 18
       }
     ]
   ]
