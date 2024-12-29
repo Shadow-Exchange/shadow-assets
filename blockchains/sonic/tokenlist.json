@@ -133,6 +133,12 @@
         "name": "SonicEco",
         "symbol": "ECO",
         "decimals": 18
+      },
+      {
+        "address": "0xf1c9b8171Bf3902554e791010CCBCD6bacBA6eFd",
+        "name": "BEARZWIFGUNZ180042069",
+        "symbol": "180042069",
+        "decimals": 18
       }
     ]
   ]
