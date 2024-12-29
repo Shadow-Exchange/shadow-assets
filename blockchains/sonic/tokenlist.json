@@ -91,6 +91,42 @@
         "name": "SupraFi Staked Sonic",
         "symbol": "sS",
         "decimals": 18
+      },
+      {
+        "address": "0xFFC05D77E021F12878644537398160A54E33B5e4",
+        "name": "Candle Token",
+        "symbol": "CANDLE",
+        "decimals": 18
+      },
+      {
+        "address": "0x690d956D97d3EEe18AB68ED1A28a89d531734F3d",
+        "name": "DiddyScrotumFree",
+        "symbol": "Moist",
+        "decimals": 18
+      },
+      {
+        "address": "0xBe422DD2F451348d5D0979D8ab25B4c6eAAd1eB2",
+        "name": "Familio",
+        "symbol": "F",
+        "decimals": 18
+      },
+      {
+        "address": "0x9990dE39Ca46151150E392Ca96EB349d0f549166",
+        "name": "SuperSonicSpeedDemon",
+        "symbol": "SPEED",
+        "decimals": 18
+      },
+      {
+        "address": "0x05e31a691405d06708A355C029599c12d5da8b28",
+        "name": "FantomSonicInu",
+        "symbol": "fSONIC",
+        "decimals": 18
+      },
+      {
+        "address": "0x7F883dA3B0d77978075f7C9c03E1B9F461CA1B8d",
+        "name": "Muttski",
+        "symbol": "WOOF",
+        "decimals": 9
       }
     ]
   ]

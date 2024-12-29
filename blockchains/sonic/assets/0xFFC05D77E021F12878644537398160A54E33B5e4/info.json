@@ -1,0 +1,7 @@
+{
+  "name": "Candle Token",
+  "symbol": "CANDLE",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0xFFC05D77E021F12878644537398160A54E33B5e4"
+}
