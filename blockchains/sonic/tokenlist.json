@@ -139,6 +139,12 @@
         "name": "BEARZWIFGUNZ180042069",
         "symbol": "180042069",
         "decimals": 18
+      },
+      {
+        "address": "0x7732Cda61C9f7852c8A016B815f07ccD067A918f",
+        "name": "Sonic Kings",
+        "symbol": "K",
+        "decimals": 18
       }
     ]
   ]
