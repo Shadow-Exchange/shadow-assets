@@ -151,6 +151,12 @@
         "name": "Sonic Goat",
         "symbol": "sGOAT",
         "decimals": 18
+      },
+      {
+        "address": "0xE53aFA646d48E9EF68fCd559F2a598880a3f1370",
+        "name": "PLUS",
+        "symbol": "PLUS",
+        "decimals": 18
       }
     ]
   ]
