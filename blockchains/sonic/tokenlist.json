@@ -145,6 +145,12 @@
         "name": "Sonic Kings",
         "symbol": "K",
         "decimals": 18
+      },
+      {
+        "address": "0x43F9a13675e352154f745d6402E853FECC388aA5",
+        "name": "Sonic Goat",
+        "symbol": "sGOAT",
+        "decimals": 18
       }
     ]
   ]
