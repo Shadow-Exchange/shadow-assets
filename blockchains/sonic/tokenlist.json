@@ -157,6 +157,12 @@
         "name": "PLUS",
         "symbol": "PLUS",
         "decimals": 18
+      },
+      {
+        "address": "0x6fB9897896Fe5D05025Eb43306675727887D0B7c",
+        "name": "HEDGY the hedgehog",
+        "symbol": "HEDGY",
+        "decimals": 18
       }
     ]
   ]
