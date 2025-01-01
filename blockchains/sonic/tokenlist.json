@@ -175,6 +175,24 @@
         "name": "SolvBTC Babylon",
         "symbol": "SolvBTC.BBN",
         "decimals": 18
+      },
+      {
+        "address": "0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44",
+        "name": "PaintSwap",
+        "symbol": "BRUSH",
+        "decimals": 18
+      },
+      {
+        "address": "0xB4F58eeAbE36711D72e99f35cbf36210561522bE",
+        "name": "PHANIC",
+        "symbol": "PHANIC",
+        "decimals": 18
+      },
+      {
+        "address": "0x486B6Fa0419b33a0c7A6e4698c231D7E2f2D5299",
+        "name": "Moon Bay",
+        "symbol": "MOON",
+        "decimals": 18
       }
     ]
   ]
