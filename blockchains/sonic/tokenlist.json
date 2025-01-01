@@ -175,6 +175,12 @@
         "name": "SolvBTC Babylon",
         "symbol": "SolvBTC.BBN",
         "decimals": 18
+      },
+      {
+        "address": "0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44",
+        "name": "PaintSwap",
+        "symbol": "BRUSH",
+        "decimals": 18
       }
     ]
   ]
