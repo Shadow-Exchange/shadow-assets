@@ -181,6 +181,12 @@
         "name": "PaintSwap",
         "symbol": "BRUSH",
         "decimals": 18
+      },
+      {
+        "address": "0xB4F58eeAbE36711D72e99f35cbf36210561522bE",
+        "name": "PHANIC",
+        "symbol": "PHANIC",
+        "decimals": 18
       }
     ]
   ]
