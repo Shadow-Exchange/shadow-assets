@@ -199,6 +199,12 @@
         "name": "sDOG",
         "symbol": "sDOG",
         "decimals": 18
+      },
+      {
+        "address": "0x051b94B2F176AEa8B1058D3d4173bcEEC2a193BC",
+        "name": "SuperSaiyanSonic",
+        "symbol": "SSS",
+        "decimals": 18
       }
     ]
   ]
