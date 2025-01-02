@@ -205,6 +205,12 @@
         "name": "SuperSaiyanSonic",
         "symbol": "SSS",
         "decimals": 18
+      },
+      {
+        "address": "0x07803Cc672adF17DB5BAB287F48e7ea140B14509",
+        "name": "SUPER",
+        "symbol": "SUPER",
+        "decimals": 18
       }
     ]
   ]
