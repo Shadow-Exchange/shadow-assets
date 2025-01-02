@@ -193,6 +193,12 @@
         "name": "Moon Bay",
         "symbol": "MOON",
         "decimals": 18
+      },
+      {
+        "address": "0x50Bc6e1DfF8039A4b967c1BF507ba5eA13fa18B6",
+        "name": "sDOG",
+        "symbol": "sDOG",
+        "decimals": 18
       }
     ]
   ]
