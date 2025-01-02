@@ -211,6 +211,12 @@
         "name": "SUPER",
         "symbol": "SUPER",
         "decimals": 18
+      },
+      {
+        "address": "0x9C507f61f6108606A001C8D738E15b30c3f4C119",
+        "name": "Fanties",
+        "symbol": "Fantie",
+        "decimals": 18
       }
     ]
   ]
