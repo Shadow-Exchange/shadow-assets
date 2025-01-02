@@ -217,6 +217,12 @@
         "name": "Fanties",
         "symbol": "Fantie",
         "decimals": 18
+      },
+      {
+        "address": "0x7F144F8691CbA3d2EfD8e5bcf042f9303EE31a46",
+        "name": "Aurum",
+        "symbol": "AUR",
+        "decimals": 18
       }
     ]
   ]
