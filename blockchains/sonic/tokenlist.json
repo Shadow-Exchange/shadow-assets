@@ -223,6 +223,12 @@
         "name": "Aurum",
         "symbol": "AUR",
         "decimals": 18
+      },
+      {
+        "address": "0xca7F35e9209d90769B65BC4984eFb7d7cE022259",
+        "name": "Waves",
+        "symbol": "WAV",
+        "decimals": 18
       }
     ]
   ]
