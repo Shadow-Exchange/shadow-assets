@@ -241,6 +241,12 @@
         "name": "ThankYouSonicGod",
         "symbol": "TYSG",
         "decimals": 18
+      },
+      {
+        "address": "0xB5A10bd15aF95381D830f71E85328F2d1d823de7",
+        "name": "SONIC PUB",
+        "symbol": "SPUB",
+        "decimals": 18
       }
     ]
   ]
