@@ -247,6 +247,12 @@
         "name": "SONIC PUB",
         "symbol": "SPUB",
         "decimals": 18
+      },
+      {
+        "address": "0x93cd403693Da40d27188714a872943F717E3c543",
+        "name": "SONICBEER",
+        "symbol": "SBEER",
+        "decimals": 18
       }
     ]
   ]
