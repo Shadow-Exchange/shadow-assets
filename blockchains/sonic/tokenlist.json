@@ -259,6 +259,12 @@
         "name": "Atoll ETH",
         "symbol": "atETH",
         "decimals": 18
+      },
+      {
+        "address": "0xd1DA314f7db27DbE3c61aC172bE13d86e67688B7",
+        "name": "Atoll Governance Token",
+        "symbol": "ATOLL",
+        "decimals": 18
       }
     ]
   ]
