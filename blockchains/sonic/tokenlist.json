@@ -253,6 +253,12 @@
         "name": "SONICBEER",
         "symbol": "SBEER",
         "decimals": 18
+      },
+      {
+        "address": "0x284D81e48fBc782Aa9186a03a226690aEA5cBe0E",
+        "name": "Atoll ETH",
+        "symbol": "atETH",
+        "decimals": 18
       }
     ]
   ]
