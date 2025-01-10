@@ -277,6 +277,12 @@
         "name": "Sacra Gem 1",
         "symbol": "SACRA_GEM_1",
         "decimals": 18
+      },
+      {
+        "address": "0x69690ED6644B0E735c05B49034b6283eD5bB6969",
+        "name": "Shedew Hegehog",
+        "symbol": "SHEDEW",
+        "decimals": 18
       }
     ]
   ]
