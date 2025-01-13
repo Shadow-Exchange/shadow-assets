@@ -295,6 +295,12 @@
         "name": "Whale",
         "symbol": "WHALE",
         "decimals": 18
+      },
+      {
+        "address": "0x1Ecfa7a6434159217AEB4f1594830eA7F9Cb8d40",
+        "name": "Treasure Keep",
+        "symbol": "TK",
+        "decimals": 18
       }
     ]
   ]
