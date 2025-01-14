@@ -1,6 +1,6 @@
-# ramses-assets
+# shadow-assets
 
-Assets that Ramses & forks support, and their logos/token information to be fed into the API.
+Assets that Shadow supports, and their logos/token information to be fed into the API.
 Forked initially from trust-wallet's database/uniswap's token list.
 
 ## How to get your token whitelisted (Icon + searchability)
