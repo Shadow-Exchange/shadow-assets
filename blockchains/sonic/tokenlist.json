@@ -307,6 +307,12 @@
         "name": "Moo BIFI",
         "symbol": "mooBIFI",
         "decimals": 18
+      },
+      {
+        "address": "0xd43b5d6899635e514A00b475eEa04C364979e076",
+        "name": "Free Money Market",
+        "symbol": "fBUX",
+        "decimals": 18
       }
     ]
   ]
