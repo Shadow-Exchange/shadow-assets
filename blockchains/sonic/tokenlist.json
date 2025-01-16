@@ -319,6 +319,12 @@
         "name": "xShadow",
         "symbol": "xSHADOW",
         "decimals": 18
+      },
+      {
+        "address": "0xE4A4353CD8F008f1a70f1a564535990479E8ceb7",
+        "name": "Paladin Token",
+        "symbol": "PAL",
+        "decimals": 18
       }
     ]
   ]
