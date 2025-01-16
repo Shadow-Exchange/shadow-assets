@@ -313,6 +313,12 @@
         "name": "Free Money Market",
         "symbol": "fBUX",
         "decimals": 18
+      },
+      {
+        "address": "0x5050bc082FF4A74Fb6B0B04385dEfdDB114b2424",
+        "name": "xShadow",
+        "symbol": "xSHADOW",
+        "decimals": 18
       }
     ]
   ]
