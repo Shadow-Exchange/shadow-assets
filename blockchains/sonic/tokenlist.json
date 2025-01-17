@@ -325,6 +325,12 @@
         "name": "Paladin Token",
         "symbol": "PAL",
         "decimals": 18
+      },
+      {
+        "address": "0xD81345187c8e2A24419996D0FEA18AC60464CeB2",
+        "name": "Blue Pepe",
+        "symbol": "BPEPE",
+        "decimals": 18
       }
     ]
   ]
