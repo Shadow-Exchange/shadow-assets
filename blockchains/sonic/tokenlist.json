@@ -331,6 +331,12 @@
         "name": "Blue Pepe",
         "symbol": "BPEPE",
         "decimals": 18
+      },
+      {
+        "address": "0x38628cb4cc74cbDFB6dDD877B17c1F60fCAE7C2C",
+        "name": "BLACKHOLE",
+        "symbol": "BOL",
+        "decimals": 18
       }
     ]
   ]
