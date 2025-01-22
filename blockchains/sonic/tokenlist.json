@@ -343,6 +343,12 @@
         "name": "Fuego",
         "symbol": "FUEGO",
         "decimals": 18
+      },
+      {
+        "address": "0x3333111A391cC08fa51353E9195526A70b333333",
+        "name": "Shadow Liquid Staking Token",
+        "symbol": "x33",
+        "decimals": 18
       }
     ]
   ]
