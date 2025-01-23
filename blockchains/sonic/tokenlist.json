@@ -355,6 +355,12 @@
         "name": "Origin Sonic",
         "symbol": "OS",
         "decimals": 18
+      },
+      {
+        "address": "0x0E3B1C9be555Ec9806f6eaB9bd101487F53CF0C9",
+        "name": "Grok",
+        "symbol": "GROK",
+        "decimals": 18
       }
     ]
   ]
