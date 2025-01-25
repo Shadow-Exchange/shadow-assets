@@ -361,6 +361,12 @@
         "name": "Grok",
         "symbol": "GROK",
         "decimals": 18
+      },
+      {
+        "address": "0x5555b2733602DEd58D47b8D3D989E631CBee5555",
+        "name": "Shadow Wrapped Gems",
+        "symbol": "GEMS",
+        "decimals": 18
       }
     ]
   ]
