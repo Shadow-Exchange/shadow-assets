@@ -367,6 +367,12 @@
         "name": "Shadow Wrapped Gems",
         "symbol": "GEMS",
         "decimals": 18
+      },
+      {
+        "address": "0x6881B80ea7C858E4aEEf63893e18a8A36f3682f3",
+        "name": "NAVI",
+        "symbol": "NAVI",
+        "decimals": 18
       }
     ]
   ]
