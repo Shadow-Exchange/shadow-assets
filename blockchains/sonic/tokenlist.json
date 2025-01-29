@@ -385,6 +385,12 @@
         "name": "Silo Governance Token",
         "symbol": "Silo",
         "decimals": 18
+      },
+      {
+        "address": "0x4D85bA8c3918359c78Ed09581E5bc7578ba932ba",
+        "name": "Staked Sonic USD",
+        "symbol": "stkscUSD",
+        "decimals": 6
       }
     ]
   ]
