@@ -397,6 +397,12 @@
         "name": "Stability Gem Season 1",
         "symbol": "sGEM1",
         "decimals": 18
+      },
+      {
+        "address": "0x7cB451cE10B578191acf609C41e92d3912E8Edb3",
+        "name": "Dola USD Stablecoin",
+        "symbol": "DOLA",
+        "decimals": 18
       }
     ]
   ]
