@@ -403,6 +403,12 @@
         "name": "Dola USD Stablecoin",
         "symbol": "DOLA",
         "decimals": 18
+      },
+      {
+        "address": "0x2fb960611bdC322A9a4A994252658Cae9fe2eeA1",
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "decimals": 18
       }
     ]
   ]
