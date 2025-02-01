@@ -421,6 +421,12 @@
         "name": "FIERY",
         "symbol": "FIERY",
         "decimals": 18
+      },
+      {
+        "address": "0x455d5f11Fea33A8fa9D3e285930b478B6bF85265",
+        "name": "Staked Sonic ETH",
+        "symbol": "stkscETH",
+        "decimals": 18
       }
     ]
   ]
