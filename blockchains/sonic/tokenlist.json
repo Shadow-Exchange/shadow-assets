@@ -415,6 +415,12 @@
         "name": "Millennium Club",
         "symbol": "MCLB",
         "decimals": 18
+      },
+      {
+        "address": "0xF97d438BC03aD0F75B83ce5714c9619880B305bc",
+        "name": "FIERY",
+        "symbol": "FIERY",
+        "decimals": 18
       }
     ]
   ]
