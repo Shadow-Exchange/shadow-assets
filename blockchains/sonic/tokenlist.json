@@ -427,6 +427,12 @@
         "name": "Staked Sonic ETH",
         "symbol": "stkscETH",
         "decimals": 18
+      },
+      {
+        "address": "0x8A3b1cd8d0DEcF649262e56EcE6B339E59f350db",
+        "name": "Metropolis Sonic GEM",
+        "symbol": "MGEM",
+        "decimals": 18
       }
     ]
   ]
