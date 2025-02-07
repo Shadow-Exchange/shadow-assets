@@ -433,6 +433,12 @@
         "name": "Metropolis Sonic GEM",
         "symbol": "MGEM",
         "decimals": 18
+      },
+      {
+        "address": "0x3a516e01f82c1e18916ED69a81Dd498eF64bB157",
+        "name": "SNAKE",
+        "symbol": "SNAKE",
+        "decimals": 18
       }
     ]
   ]
