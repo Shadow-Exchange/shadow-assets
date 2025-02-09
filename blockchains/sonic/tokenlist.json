@@ -445,6 +445,12 @@
         "name": "Sonic IndeX",
         "symbol": "fSIX",
         "decimals": 18
+      },
+      {
+        "address": "0xd441a37aA73fc1DDd2db99FC4c92f233b7d41CBd",
+        "name": "Hubble Protocol Shares",
+        "symbol": "HUBBLE",
+        "decimals": 18
       }
     ]
   ]
