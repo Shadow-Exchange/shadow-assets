@@ -439,6 +439,12 @@
         "name": "SNAKE",
         "symbol": "SNAKE",
         "decimals": 18
+      },
+      {
+        "address": "0x94B999e05D1361A802aD6690c1b1aE3426A4e1a6",
+        "name": "Sonic IndeX",
+        "symbol": "fSIX",
+        "decimals": 18
       }
     ]
   ]
