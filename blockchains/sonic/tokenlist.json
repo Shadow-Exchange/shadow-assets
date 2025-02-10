@@ -457,6 +457,12 @@
         "name": "Uppies",
         "symbol": "UPPIES",
         "decimals": 18
+      },
+      {
+        "address": "0x6047828dc181963ba44974801FF68e538dA5eaF9",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6
       }
     ]
   ]
