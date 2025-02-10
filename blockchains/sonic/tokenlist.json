@@ -463,6 +463,12 @@
         "name": "Tether USD",
         "symbol": "USDT",
         "decimals": 6
+      },
+      {
+        "address": "0x9F0dF7799f6FDAd409300080cfF680f5A23df4b1",
+        "name": "Wrapped OS",
+        "symbol": "wOS",
+        "decimals": 18
       }
     ]
   ]
