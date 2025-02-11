@@ -469,6 +469,12 @@
         "name": "Wrapped OS",
         "symbol": "wOS",
         "decimals": 18
+      },
+      {
+        "address": "0x8ad39144B37741573F85aa03D6c3E817A0054161",
+        "name": "Fate Adventure",
+        "symbol": "FA",
+        "decimals": 18
       }
     ]
   ]
