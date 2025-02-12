@@ -475,6 +475,12 @@
         "name": "Fate Adventure",
         "symbol": "FA",
         "decimals": 18
+      },
+      {
+        "address": "0x3B0cFFdA9a5aB64135C227638e777cEec0C243A8",
+        "name": "Fang Dao",
+        "symbol": "fDAO",
+        "decimals": 18
       }
     ]
   ]
