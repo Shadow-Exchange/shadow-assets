@@ -481,6 +481,12 @@
         "name": "Fang Dao",
         "symbol": "fDAO",
         "decimals": 18
+      },
+      {
+        "address": "0xE569821A7b621Cc16C447C19297089b7205a6D30",
+        "name": "Poor ",
+        "symbol": "POOR",
+        "decimals": 18
       }
     ]
   ]
