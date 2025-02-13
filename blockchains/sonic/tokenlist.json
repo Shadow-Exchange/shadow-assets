@@ -487,6 +487,12 @@
         "name": "Poor ",
         "symbol": "POOR",
         "decimals": 18
+      },
+      {
+        "address": "0xf26Ff70573ddc8a90Bd7865AF8d7d70B8Ff019bC",
+        "name": "Eggs",
+        "symbol": "EGGS",
+        "decimals": 18
       }
     ]
   ]
