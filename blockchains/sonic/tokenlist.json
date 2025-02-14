@@ -493,6 +493,12 @@
         "name": "Eggs",
         "symbol": "EGGS",
         "decimals": 18
+      },
+      {
+        "address": "0x2Ac457d7f225Ac6E89EdB6AC2CB21293D77dDFc9",
+        "name": "Yehrold",
+        "symbol": "YEH",
+        "decimals": 18
       }
     ]
   ]
