@@ -505,6 +505,12 @@
         "name": "PASSTHEJOINT",
         "symbol": "JOINT",
         "decimals": 18
+      },
+      {
+        "address": "0x674a430f531847a6f8976A900f8ace765f896a1b",
+        "name": "GSNAKE",
+        "symbol": "GSNAKE",
+        "decimals": 18
       }
     ]
   ]
