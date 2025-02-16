@@ -511,6 +511,12 @@
         "name": "GSNAKE",
         "symbol": "GSNAKE",
         "decimals": 18
+      },
+      {
+        "address": "0xA3F5Ca4C5CB1e0339Da0Cf379C19AcA23deB8FEB",
+        "name": "Baby Shadow",
+        "symbol": "babySHADOW",
+        "decimals": 18
       }
     ]
   ]
