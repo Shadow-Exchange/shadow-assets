@@ -511,6 +511,12 @@
         "name": "GSNAKE",
         "symbol": "GSNAKE",
         "decimals": 18
+      },
+      {
+        "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+        "name": "Frax USD",
+        "symbol": "frxUSD",
+        "decimals": 18
       }
     ]
   ]
