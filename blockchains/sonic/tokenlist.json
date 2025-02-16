@@ -517,6 +517,12 @@
         "name": "Frax USD",
         "symbol": "frxUSD",
         "decimals": 18
+      },
+      {
+        "address": "0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050",
+        "name": "Frax Ether",
+        "symbol": "frxETH",
+        "decimals": 18
       }
     ]
   ]
