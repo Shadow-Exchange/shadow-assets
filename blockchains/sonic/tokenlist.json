@@ -523,6 +523,12 @@
         "name": "Frax Ether",
         "symbol": "frxETH",
         "decimals": 18
+      },
+      {
+        "address": "0x196d13D000EA24593a64B1Ebd5619aAfb7295dad",
+        "name": "OnlyX Social",
+        "symbol": "Onlyx",
+        "decimals": 18
       }
     ]
   ]
