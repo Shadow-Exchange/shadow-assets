@@ -529,6 +529,12 @@
         "name": "OnlyX Social",
         "symbol": "Onlyx",
         "decimals": 18
+      },
+      {
+        "address": "0x194d7Bc228d755fA2cb57014B030B9519e6C2A39",
+        "name": "Mari",
+        "symbol": "$MARI",
+        "decimals": 18
       }
     ]
   ]
