@@ -535,6 +535,12 @@
         "name": "Mari",
         "symbol": "$MARI",
         "decimals": 18
+      },
+      {
+        "address": "0x22Ab0F58D80f7bfEc1D3CF0beeBA54e6bBeF8442",
+        "name": "Andrelio",
+        "symbol": "ANDR",
+        "decimals": 18
       }
     ]
   ]
