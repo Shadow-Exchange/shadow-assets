@@ -553,6 +553,12 @@
         "name": "Frax Share",
         "symbol": "FXS",
         "decimals": 18
+      },
+      {
+        "address": "0x25B0a02C8050943483aE5d68165Ebcb47EB01148",
+        "name": "Vicuna Gem Fragments - Season 1",
+        "symbol": "VicunaFragmentsS1",
+        "decimals": 18
       }
     ]
   ]
