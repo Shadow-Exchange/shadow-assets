@@ -547,6 +547,12 @@
         "name": "c@t",
         "symbol": "c@t",
         "decimals": 18
+      },
+      {
+        "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a",
+        "name": "Frax Share",
+        "symbol": "FXS",
+        "decimals": 18
       }
     ]
   ]
