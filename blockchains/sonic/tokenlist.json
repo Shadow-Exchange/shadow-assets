@@ -541,6 +541,12 @@
         "name": "Andrelio",
         "symbol": "ANDR",
         "decimals": 18
+      },
+      {
+        "address": "0x67c15e7B0845038BB51148C681B5337fa6D0bb18",
+        "name": "c@t",
+        "symbol": "c@t",
+        "decimals": 18
       }
     ]
   ]
