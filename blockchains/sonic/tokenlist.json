@@ -559,6 +559,12 @@
         "name": "Vicuna Gem Fragments - Season 1",
         "symbol": "VicunaFragmentsS1",
         "decimals": 18
+      },
+      {
+        "address": "0xD419B205E33e4034CeFCc9997B8fd5ec11E239b8",
+        "name": "SonicAngels",
+        "symbol": "sANGELS",
+        "decimals": 18
       }
     ]
   ]
