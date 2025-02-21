@@ -565,6 +565,12 @@
         "name": "SonicAngels",
         "symbol": "sANGELS",
         "decimals": 18
+      },
+      {
+        "address": "0x9154d3ACB082Cb66c78eF2c7000d85138aa0b79F",
+        "name": "Smol Pepe ",
+        "symbol": "Pep",
+        "decimals": 18
       }
     ]
   ]
