@@ -577,6 +577,12 @@
         "name": "SPIKE",
         "symbol": "SPIKE",
         "decimals": 18
+      },
+      {
+        "address": "0x9C5100BA377e3E9DB247f6d4bc7FFc9C24b59d08",
+        "name": "SonicSuperFly",
+        "symbol": "ZUPA",
+        "decimals": 18
       }
     ]
   ]
