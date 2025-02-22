@@ -589,6 +589,12 @@
         "name": "Accelerate",
         "symbol": "accelerate",
         "decimals": 18
+      },
+      {
+        "address": "0xbeE65E9AF970ef637a84293D238db4528a53BB47",
+        "name": "Solidex Monkey",
+        "symbol": "SEX",
+        "decimals": 18
       }
     ]
   ]
