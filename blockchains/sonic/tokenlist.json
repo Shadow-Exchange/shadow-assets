@@ -571,6 +571,12 @@
         "name": "Smol Pepe ",
         "symbol": "Pep",
         "decimals": 18
+      },
+      {
+        "address": "0x4E11c7A3Ba216E283952c4bdc2b86b3594EBbE26",
+        "name": "SPIKE",
+        "symbol": "SPIKE",
+        "decimals": 18
       }
     ]
   ]
