@@ -595,12 +595,6 @@
         "name": "Solidex Monkey",
         "symbol": "SEX",
         "decimals": 18
-      },
-      {
-        "address": "0x33129aa84f969845c0cca50e4161767A246b2ea1",
-        "name": "FANTOM",
-        "symbol": "FTM",
-        "decimals": 18
       }
     ]
   ]
