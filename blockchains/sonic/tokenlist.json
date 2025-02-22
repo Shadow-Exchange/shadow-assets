@@ -583,6 +583,12 @@
         "name": "SonicSuperFly",
         "symbol": "ZUPA",
         "decimals": 18
+      },
+      {
+        "address": "0x92405Bc58ac4C1eBF43d69Bc7Ca3CddFC335920e",
+        "name": "Accelerate",
+        "symbol": "accelerate",
+        "decimals": 18
       }
     ]
   ]
