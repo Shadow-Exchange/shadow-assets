@@ -595,6 +595,12 @@
         "name": "Solidex Monkey",
         "symbol": "SEX",
         "decimals": 18
+      },
+      {
+        "address": "0x08c96D947A21018788Eb6a5c371Ae97c3A4E9f88",
+        "name": "Moem Token",
+        "symbol": "MOEM",
+        "decimals": 18
       }
     ]
   ]
