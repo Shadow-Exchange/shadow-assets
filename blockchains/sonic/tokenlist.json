@@ -661,6 +661,12 @@
         "name": "Sonic BTC",
         "symbol": "scBTC",
         "decimals": 8
+      },
+      {
+        "address": "0x263C45E626706e225dcd186Ca6127f7F5fCE0D22",
+        "name": "Vloomverg",
+        "symbol": "",
+        "decimals": 18
       }
     ]
   ]
