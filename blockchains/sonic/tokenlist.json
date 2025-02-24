@@ -637,6 +637,12 @@
         "name": "Andrott Weiler",
         "symbol": "ANDROTT",
         "decimals": 18
+      },
+      {
+        "address": "0x377175C33b3495fF7c0d26d41DB45CF40dE49Cde",
+        "name": "KNUCKLES",
+        "symbol": "KNUCKLES",
+        "decimals": 18
       }
     ]
   ]
