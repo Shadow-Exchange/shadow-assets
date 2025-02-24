@@ -619,6 +619,12 @@
         "name": "BabyWagmi",
         "symbol": "BABYWAGMI",
         "decimals": 18
+      },
+      {
+        "address": "0xcfaE6E44e44dffd0179a942046AC8869C2eb43A4",
+        "name": "Mikul Koong",
+        "symbol": "MIKUL",
+        "decimals": 18
       }
     ]
   ]
