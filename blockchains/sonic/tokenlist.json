@@ -631,6 +631,12 @@
         "name": "Yoko",
         "symbol": "YOKO",
         "decimals": 18
+      },
+      {
+        "address": "0x2eFD87E7e38160Cef2C49871505628196C6b1f44",
+        "name": "Andrott Weiler",
+        "symbol": "ANDROTT",
+        "decimals": 18
       }
     ]
   ]
