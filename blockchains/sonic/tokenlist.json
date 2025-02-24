@@ -643,6 +643,12 @@
         "name": "KNUCKLES",
         "symbol": "KNUCKLES",
         "decimals": 18
+      },
+      {
+        "address": "0x893A5F9CA92Ca721089b6dAb44949dbd70CbC711",
+        "name": "Sonichu",
+        "symbol": "Sonichu",
+        "decimals": 18
       }
     ]
   ]
