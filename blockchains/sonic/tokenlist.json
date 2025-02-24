@@ -625,6 +625,12 @@
         "name": "CINOS",
         "symbol": "C",
         "decimals": 18
+      },
+      {
+        "address": "0x59524D5667B299c0813Ba3c99a11C038a3908fBC",
+        "name": "Yoko",
+        "symbol": "YOKO",
+        "decimals": 18
       }
     ]
   ]
