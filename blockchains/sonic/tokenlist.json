@@ -619,6 +619,12 @@
         "name": "Mikul Koong",
         "symbol": "MIKUL",
         "decimals": 18
+      },
+      {
+        "address": "0x54F219469f8d6b938BD2D86d2b0256Ed4cC3f8dA",
+        "name": "CINOS",
+        "symbol": "C",
+        "decimals": 18
       }
     ]
   ]
