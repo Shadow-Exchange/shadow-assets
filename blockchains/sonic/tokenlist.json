@@ -673,6 +673,12 @@
         "name": "Staked Stream USD",
         "symbol": "xUSD",
         "decimals": 6
+      },
+      {
+        "address": "0xf229857cBcd19F4Fc91aCdEE56fb62085d25818D",
+        "name": "Eggnog",
+        "symbol": "Eggnog",
+        "decimals": 18
       }
     ]
   ]
