@@ -673,6 +673,12 @@
         "name": "Staked Stream USD",
         "symbol": "xUSD",
         "decimals": 6
+      },
+      {
+        "address": "0x19980b81272DBe83f5dbAa0717af645060401998",
+        "name": "GandalfSigmaBidenDogeTeslaShrek1998HondaCivicBONK",
+        "symbol": "Cryptocurrency",
+        "decimals": 9
       }
     ]
   ]
