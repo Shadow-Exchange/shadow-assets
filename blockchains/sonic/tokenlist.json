@@ -685,6 +685,12 @@
         "name": "Pierre Gasly",
         "symbol": "GASLY",
         "decimals": 18
+      },
+      {
+        "address": "0x24b50D4BF6c9f2dC87a2a696C13cb7daAEd92D45",
+        "name": "Haunted ICE",
+        "symbol": "ICE",
+        "decimals": 18
       }
     ]
   ]
