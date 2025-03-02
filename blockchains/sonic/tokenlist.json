@@ -679,6 +679,12 @@
         "name": "GandalfSigmaBidenDogeTeslaShrek1998HondaCivicBONK",
         "symbol": "Cryptocurrency",
         "decimals": 9
+      },
+      {
+        "address": "0xC792A475432B23cdFaBCbC4c507f127D88543567",
+        "name": "Pierre Gasly",
+        "symbol": "GASLY",
+        "decimals": 18
       }
     ]
   ]
