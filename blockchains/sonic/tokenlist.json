@@ -691,6 +691,12 @@
         "name": "Haunted ICE",
         "symbol": "ICE",
         "decimals": 18
+      },
+      {
+        "address": "0xf6a884c3433293625e71845bD225bB7320AdB928",
+        "name": "CHADONIC",
+        "symbol": "CHADO",
+        "decimals": 18
       }
     ]
   ]
