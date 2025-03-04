@@ -715,6 +715,12 @@
         "name": "MATRIX",
         "symbol": "MATRIX",
         "decimals": 18
+      },
+      {
+        "address": "0x97a10beEbB25e0eBfA55Ca0A7d00E37AFe957DEa",
+        "name": "Stout",
+        "symbol": "STTX",
+        "decimals": 18
       }
     ]
   ]
