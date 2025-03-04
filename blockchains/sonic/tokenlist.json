@@ -709,6 +709,12 @@
         "name": "Eliteness.Network",
         "symbol": "ELITE",
         "decimals": 18
+      },
+      {
+        "address": "0x7e3db94eb504E4Fd9d4ab4d0181956fb0cdBd0A5",
+        "name": "MATRIX",
+        "symbol": "MATRIX",
+        "decimals": 18
       }
     ]
   ]
