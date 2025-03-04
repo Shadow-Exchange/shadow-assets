@@ -697,6 +697,12 @@
         "name": "CHADONIC",
         "symbol": "CHADO",
         "decimals": 18
+      },
+      {
+        "address": "0x70317Fc7b09dfEa57F56F7e65820368Bd976b342",
+        "name": "Sonic Peng",
+        "symbol": "SPENG",
+        "decimals": 18
       }
     ]
   ]
