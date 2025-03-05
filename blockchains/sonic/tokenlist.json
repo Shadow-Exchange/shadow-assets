@@ -721,6 +721,12 @@
         "name": "Stout",
         "symbol": "STTX",
         "decimals": 18
+      },
+      {
+        "address": "0x78a76316F66224CBaCA6e70acB24D5ee5b2Bd2c7",
+        "name": "Stability",
+        "symbol": "STBL",
+        "decimals": 18
       }
     ]
   ]
