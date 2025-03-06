@@ -733,6 +733,12 @@
         "name": "SuperSonic",
         "symbol": "SS",
         "decimals": 18
+      },
+      {
+        "address": "0x31E2eed04a62b232DA964A097D8C171584e3C3Bd",
+        "name": "OIL",
+        "symbol": "OIL",
+        "decimals": 18
       }
     ]
   ]
