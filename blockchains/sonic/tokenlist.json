@@ -739,6 +739,12 @@
         "name": "OIL",
         "symbol": "OIL",
         "decimals": 18
+      },
+      {
+        "address": "0xcbFE13919530cB054b9cAbBF9cdA1dd1d811E3e6",
+        "name": "Coal",
+        "symbol": "COAL",
+        "decimals": 18
       }
     ]
   ]
