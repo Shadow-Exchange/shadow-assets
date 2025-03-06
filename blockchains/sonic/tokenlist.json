@@ -727,6 +727,12 @@
         "name": "Stability",
         "symbol": "STBL",
         "decimals": 18
+      },
+      {
+        "address": "0xf1d06a43ec169814582C1c03AE05048a96662DfA",
+        "name": "SuperSonic",
+        "symbol": "SS",
+        "decimals": 18
       }
     ]
   ]
