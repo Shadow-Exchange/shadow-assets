@@ -745,6 +745,12 @@
         "name": "Coal",
         "symbol": "COAL",
         "decimals": 18
+      },
+      {
+        "address": "0xf1eF7d2D4C0c881cd634481e0586ed5d2871A74B",
+        "name": "Pendle",
+        "symbol": "PENDLE",
+        "decimals": 18
       }
     ]
   ]
