@@ -751,6 +751,12 @@
         "name": "Pendle",
         "symbol": "PENDLE",
         "decimals": 18
+      },
+      {
+        "address": "0x9b567e03d891F537b2B7874aA4A3308Cfe2F4FBb",
+        "name": "STONER404",
+        "symbol": "$STONER",
+        "decimals": 18
       }
     ]
   ]
