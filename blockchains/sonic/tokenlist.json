@@ -757,6 +757,12 @@
         "name": "STONER404",
         "symbol": "$STONER",
         "decimals": 18
+      },
+      {
+        "address": "0x5fD9CD00c975CcEDB4298A562d132fb2683164D9",
+        "name": "SpinDash",
+        "symbol": "SpinDash",
+        "decimals": 18
       }
     ]
   ]
