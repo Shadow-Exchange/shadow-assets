@@ -787,6 +787,12 @@
         "name": "uniBTC",
         "symbol": "uniBTC",
         "decimals": 8
+      },
+      {
+        "address": "0xff6771a9565F18638faB2972BA7Fc798ad8bCad0",
+        "name": "CIAN yield layer BTCLST",
+        "symbol": "ylBTCLST",
+        "decimals": 8
       }
     ]
   ]
