@@ -781,6 +781,12 @@
         "name": "Staked Stream ETH",
         "symbol": "xETH",
         "decimals": 18
+      },
+      {
+        "address": "0xC3827A4BC8224ee2D116637023b124CED6db6e90",
+        "name": "uniBTC",
+        "symbol": "uniBTC",
+        "decimals": 8
       }
     ]
   ]
