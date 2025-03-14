@@ -793,6 +793,12 @@
         "name": "CIAN yield layer BTCLST",
         "symbol": "ylBTCLST",
         "decimals": 8
+      },
+      {
+        "address": "0xC8449E006c5cb61959168F273c3E17FB8d2CD75e",
+        "name": "Rome",
+        "symbol": "ROME",
+        "decimals": 18
       }
     ]
   ]
