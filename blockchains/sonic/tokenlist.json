@@ -805,6 +805,12 @@
         "name": "Dawae",
         "symbol": "DAWAE",
         "decimals": 18
+      },
+      {
+        "address": "0x0e899dA2aD0817ed850ce68f7f489688E4D42D9D",
+        "name": "GHOG",
+        "symbol": "GHOG",
+        "decimals": 18
       }
     ]
   ]
