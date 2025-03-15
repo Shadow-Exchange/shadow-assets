@@ -799,6 +799,12 @@
         "name": "Rome",
         "symbol": "ROME",
         "decimals": 18
+      },
+      {
+        "address": "0x7A5C61047aD8fA4a743c75Eb46a01300c7c9dADA",
+        "name": "Dawae",
+        "symbol": "DAWAE",
+        "decimals": 18
       }
     ]
   ]
