@@ -817,6 +817,12 @@
         "name": "Boom Token",
         "symbol": "BOOM",
         "decimals": 18
+      },
+      {
+        "address": "0xe354BE2a86bAdc8EA1105F35A13AEf9b707C940A",
+        "name": "CYI by Virtuals",
+        "symbol": "CYI",
+        "decimals": 18
       }
     ]
   ]
