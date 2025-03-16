@@ -811,6 +811,12 @@
         "name": "GHOG",
         "symbol": "GHOG",
         "decimals": 18
+      },
+      {
+        "address": "0xcc17DBc9EB1c29f90388Fa197b983714fdAaDa46",
+        "name": "Boom Token",
+        "symbol": "BOOM",
+        "decimals": 18
       }
     ]
   ]
