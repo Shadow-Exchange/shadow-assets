@@ -829,6 +829,12 @@
         "name": "Lombard Staked Bitcoin",
         "symbol": "LBTC",
         "decimals": 8
+      },
+      {
+        "address": "0x4930BE803BFb0FacA970b64a031E09956e6f0140",
+        "name": "Tiny Whisker",
+        "symbol": "TIINY",
+        "decimals": 18
       }
     ]
   ]
