@@ -841,6 +841,12 @@
         "name": "Relic",
         "symbol": "RELIC",
         "decimals": 18
+      },
+      {
+        "address": "0x981Bd9F77c8AAFC14EBC86769503f86A3CC29aF5",
+        "name": "Tarot",
+        "symbol": "TAROT",
+        "decimals": 18
       }
     ]
   ]
