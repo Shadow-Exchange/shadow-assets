@@ -1,0 +1,7 @@
+{
+  "name": "bUSD",
+  "symbol": "bUSD",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0x549411894EF93f703c1BeF007C556329d854000D"
+}

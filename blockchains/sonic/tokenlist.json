@@ -847,6 +847,12 @@
         "name": "Tarot",
         "symbol": "TAROT",
         "decimals": 18
+      },
+      {
+        "address": "0x549411894EF93f703c1BeF007C556329d854000D",
+        "name": "bUSD",
+        "symbol": "bUSD",
+        "decimals": 18
       }
     ]
   ]
