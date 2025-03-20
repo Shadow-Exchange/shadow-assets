@@ -847,6 +847,12 @@
         "name": "Tarot",
         "symbol": "TAROT",
         "decimals": 18
+      },
+      {
+        "address": "0x05357bE6a973DA0a43b9aB82C90Bcc8a3Ef074b7",
+        "name": "QUANT",
+        "symbol": "QUANT",
+        "decimals": 18
       }
     ]
   ]
