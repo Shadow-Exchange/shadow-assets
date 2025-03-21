@@ -853,6 +853,12 @@
         "name": "QUANT",
         "symbol": "QUANT",
         "decimals": 18
+      },
+      {
+        "address": "0x02f92800F57BCD74066F5709F1Daa1A4302Df875",
+        "name": "Peapods",
+        "symbol": "PEAS",
+        "decimals": 18
       }
     ]
   ]
