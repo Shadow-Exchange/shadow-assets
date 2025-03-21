@@ -865,6 +865,12 @@
         "name": "pPEAS Sonic LVF Pod",
         "symbol": "pPEAS",
         "decimals": 18
+      },
+      {
+        "address": "0xAd4F4e3A86115Be0B0767160D3038DB830129D3A",
+        "name": "Eggs in a Peapod",
+        "symbol": "pEGGS",
+        "decimals": 18
       }
     ]
   ]
