@@ -877,6 +877,12 @@
         "name": "Shadow LVF Pod",
         "symbol": "pSHADOW",
         "decimals": 18
+      },
+      {
+        "address": "0xD91F848B768E653063e312E3163F1b90258e6cA3",
+        "name": "Derp pod",
+        "symbol": "pDERP",
+        "decimals": 18
       }
     ]
   ]
