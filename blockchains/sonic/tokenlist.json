@@ -859,6 +859,12 @@
         "name": "Peapods",
         "symbol": "PEAS",
         "decimals": 18
+      },
+      {
+        "address": "0xAE9c12949c4f1fC5B738231F45b72BFA4761f1cb",
+        "name": "pPEAS Sonic LVF Pod",
+        "symbol": "pPEAS",
+        "decimals": 18
       }
     ]
   ]
