@@ -883,6 +883,12 @@
         "name": "Derp pod",
         "symbol": "pDERP",
         "decimals": 18
+      },
+      {
+        "address": "0xCAF4ac913726b55bD0eAE1A20F0a59516A8C1E5E",
+        "name": "Staked Sonic stS LVF Pod",
+        "symbol": "pstS",
+        "decimals": 18
       }
     ]
   ]
