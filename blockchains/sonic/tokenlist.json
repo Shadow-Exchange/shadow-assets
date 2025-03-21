@@ -871,6 +871,12 @@
         "name": "Eggs in a Peapod",
         "symbol": "pEGGS",
         "decimals": 18
+      },
+      {
+        "address": "0x0D71aE6AdbF3e83124e71104AB8d4465185FC9b8",
+        "name": "Shadow LVF Pod",
+        "symbol": "pSHADOW",
+        "decimals": 18
       }
     ]
   ]
