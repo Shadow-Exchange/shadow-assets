@@ -889,6 +889,12 @@
         "name": "Staked Sonic stS LVF Pod",
         "symbol": "pstS",
         "decimals": 18
+      },
+      {
+        "address": "0x42ED764Ec17FF0bc4a0d0E6c09D1d6444233EfFD",
+        "name": "Solis",
+        "symbol": "SOLIS",
+        "decimals": 9
       }
     ]
   ]
