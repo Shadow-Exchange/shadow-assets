@@ -901,6 +901,12 @@
         "name": "The_Herd_Mentality",
         "symbol": "SHEEP",
         "decimals": 18
+      },
+      {
+        "address": "0x04C64f7A19B1DAF815A9726DE56DAd7cb82C4419",
+        "name": "SonicInu",
+        "symbol": "SINU",
+        "decimals": 18
       }
     ]
   ]
