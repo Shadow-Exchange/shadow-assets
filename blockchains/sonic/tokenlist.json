@@ -907,6 +907,12 @@
         "name": "SonicInu",
         "symbol": "SINU",
         "decimals": 18
+      },
+      {
+        "address": "0x3B2CE558Eec07099e668e4cF1C5B47aAd2968785",
+        "name": "MLH Token",
+        "symbol": "MLH",
+        "decimals": 18
       }
     ]
   ]
