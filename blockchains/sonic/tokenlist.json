@@ -909,11 +909,17 @@
         "decimals": 18
       },
       {
+        "address": "0x3B2CE558Eec07099e668e4cF1C5B47aAd2968785",
+        "name": "MLH Token",
+        "symbol": "MLH",
+        "decimals": 18
+      },
+      {
         "address": "0xEd5740209FcF6974d6f3a5F11e295b5E468aC27c",
         "name": "KEWL EXCHANGE",
         "symbol": "KWL",
         "decimals": 18
-      }
+       }
     ]
   ]
 }
