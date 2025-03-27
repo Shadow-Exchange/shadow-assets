@@ -913,6 +913,12 @@
         "name": "MLH Token",
         "symbol": "MLH",
         "decimals": 18
+      },
+      {
+        "address": "0x59109F47f2b167f47e1615DA46Cc5f67DFf0E034",
+        "name": "Meow",
+        "symbol": "MEOW",
+        "decimals": 18
       }
     ]
   ]
