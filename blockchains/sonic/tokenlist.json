@@ -919,6 +919,12 @@
         "name": "Meow",
         "symbol": "MEOW",
         "decimals": 18
+      },
+      {
+        "address": "0x6706Adb93117C0a7235dCBe639E12ed13fa5752f",
+        "name": "SHIELD",
+        "symbol": "SHIELD",
+        "decimals": 18
       }
     ]
   ]
