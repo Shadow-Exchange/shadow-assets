@@ -925,6 +925,12 @@
         "name": "SHIELD",
         "symbol": "SHIELD",
         "decimals": 18
+      },
+      {
+        "address": "0x4E583383c8389f469aF337f932B14d276CBe0611",
+        "name": "xQUANT",
+        "symbol": "xQUANT",
+        "decimals": 18
       }
     ]
   ]
