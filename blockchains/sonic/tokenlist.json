@@ -937,6 +937,12 @@
         "name": "Molten",
         "symbol": "MOLTEN",
         "decimals": 18
+      },
+      {
+        "address": "0xddddd1b4a383dcB89938bC8b8964Cad3C632Fad0",
+        "name": "Myrd Token",
+        "symbol": "MYRD",
+        "decimals": 18
       }
     ]
   ]
