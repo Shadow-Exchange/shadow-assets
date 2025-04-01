@@ -943,6 +943,12 @@
         "name": "Myrd Token",
         "symbol": "MYRD",
         "decimals": 18
+      },
+      {
+        "address": "0xb827E91C5cd4d6aCa2FC0cD93A07dB61896Af40B",
+        "name": "Spectra Token",
+        "symbol": "SPECTRA",
+        "decimals": 18
       }
     ]
   ]
