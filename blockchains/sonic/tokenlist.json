@@ -949,6 +949,12 @@
         "name": "Spectra Token",
         "symbol": "SPECTRA",
         "decimals": 18
+      },
+      {
+        "address": "0xd4d197F3397C8F28f4BC2C698104CfbCC3e04802",
+        "name": "Ex: Hubble Constant",
+        "symbol": "EX",
+        "decimals": 18
       }
     ]
   ]
