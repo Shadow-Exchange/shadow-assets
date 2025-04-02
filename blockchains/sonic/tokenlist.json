@@ -955,12 +955,6 @@
         "name": "Ex: Hubble Constant",
         "symbol": "EX",
         "decimals": 18
-      },
-      {
-        "address": "0x7153B037cd6a275AFd02B2A5dF8AB3A7d89aadda",
-        "name": "Jack",
-        "symbol": "JACK",
-        "decimals": 18
       }
     ]
   ]
