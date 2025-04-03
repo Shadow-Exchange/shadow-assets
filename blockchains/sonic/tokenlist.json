@@ -957,12 +957,6 @@
         "decimals": 18
       },
       {
-        "address": "0x44d3548a76E61ffEA326d20d5eA4CB185Af0f0AC",
-        "name": "",
-        "symbol": "",
-        "decimals": 18
-      },
-      {
         "address": "0x9d549C39E5E1A0e7eF41D4b7d74c49f976102E36",
         "name": "Stable Jack",
         "symbol": "JACK",
@@ -971,3 +965,4 @@
     ]
   ]
 }
+
