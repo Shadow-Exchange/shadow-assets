@@ -267,12 +267,6 @@
         "decimals": 18
       },
       {
-        "address": "0xA04BC7140c26fc9BB1F36B1A604C7A5a88fb0E70",
-        "name": "SwapX",
-        "symbol": "SWPx",
-        "decimals": 18
-      },
-      {
         "address": "0xfC0dd337b92Baa949bC5D25FD9A99Cb3b6873204",
         "name": "Sacra Gem 1",
         "symbol": "SACRA_GEM_1",
@@ -965,4 +959,3 @@
     ]
   ]
 }
-
