@@ -967,6 +967,12 @@
         "name": "Aave Sonic USDC",
         "symbol": "aSonUSDC",
         "decimals": 6
+      },
+      {
+        "address": "0xDD646291D2fff52c75F27CCDAdD0D4C2A24f37Dd",
+        "name": "Xitcoin",
+        "symbol": "$XTC",
+        "decimals": 8
       }
     ]
   ]
