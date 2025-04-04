@@ -961,6 +961,12 @@
         "name": "SwapX",
         "symbol": "SWPx",
         "decimals": 18
+      },
+      {
+        "address": "0x578Ee1ca3a8E1b54554Da1Bf7C583506C4CD11c6",
+        "name": "Aave Sonic USDC",
+        "symbol": "aSonUSDC",
+        "decimals": 6
       }
     ]
   ]
