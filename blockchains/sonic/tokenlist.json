@@ -979,6 +979,12 @@
         "name": "BMX: Wrapped Sonic Liquidity Token",
         "symbol": "wSLT",
         "decimals": 18
+      },
+      {
+        "address": "0x489610263031ceeD236dDa8ebF67863d0f1332bB",
+        "name": "",
+        "symbol": "",
+        "decimals": 18
       }
     ]
   ]
