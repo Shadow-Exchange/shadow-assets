@@ -969,12 +969,6 @@
         "decimals": 6
       },
       {
-        "address": "0xDD646291D2fff52c75F27CCDAdD0D4C2A24f37Dd",
-        "name": "Xitcoin",
-        "symbol": "$XTC",
-        "decimals": 8
-      },
-      {
         "address": "0x2dDCF85D3Cf27DEA338e0371D38409Ba80058630",
         "name": "BMX: Wrapped Sonic Liquidity Token",
         "symbol": "wSLT",
