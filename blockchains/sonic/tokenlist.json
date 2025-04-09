@@ -979,6 +979,12 @@
         "name": "SPIN IT",
         "symbol": "SPIN",
         "decimals": 18
+      },
+      {
+        "address": "0x871A101Dcf22fE4fE37be7B654098c801CBA1c88",
+        "name": "Beefy Sonic",
+        "symbol": "beS",
+        "decimals": 18
       }
     ]
   ]
