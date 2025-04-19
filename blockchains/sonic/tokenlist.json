@@ -985,6 +985,12 @@
         "name": "Beefy Sonic",
         "symbol": "beS",
         "decimals": 18
+      },
+      {
+        "address": "0x59ac35F26f5b8a0168C4C4733b212a60F63b94DA",
+        "name": "Mrrrr Always Right!",
+        "symbol": "MAR",
+        "decimals": 18
       }
     ]
   ]
