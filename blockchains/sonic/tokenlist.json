@@ -997,6 +997,12 @@
         "name": "Magpie Gem Fragments - Season 1",
         "symbol": "MagpieFragmentsS1",
         "decimals": 18
+      },
+      {
+        "address": "0x888852d1c63c7b333efEb1c4C5C79E36ce918888",
+        "name": "Infinity",
+        "symbol": "8",
+        "decimals": 18
       }
     ]
   ]
