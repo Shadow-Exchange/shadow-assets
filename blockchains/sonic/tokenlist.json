@@ -1009,6 +1009,12 @@
         "name": "Sonic Points Token",
         "symbol": "SPT",
         "decimals": 18
+      },
+      {
+        "address": "0x46B003F7Fa60d60DeE5f63c35a0Fb171D844EaeB",
+        "name": "MoleFinance",
+        "symbol": "Mole",
+        "decimals": 18
       }
     ]
   ]
