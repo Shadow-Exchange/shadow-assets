@@ -1003,6 +1003,12 @@
         "name": "Infinity",
         "symbol": "8",
         "decimals": 18
+      },
+      {
+        "address": "0xabAA0C5dbfe31f20912864c40bc2d1C9aA286922",
+        "name": "Sonic Points Token",
+        "symbol": "SPT",
+        "decimals": 18
       }
     ]
   ]
