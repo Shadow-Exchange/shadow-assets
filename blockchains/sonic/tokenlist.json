@@ -1021,6 +1021,12 @@
         "name": "Euler",
         "symbol": "EUL",
         "decimals": 18
+      },
+      {
+        "address": "0x4AC76D51B20b1e85B2E9ba494E649c6e1b9568e6",
+        "name": "",
+        "symbol": "",
+        "decimals": 18
       }
     ]
   ]
