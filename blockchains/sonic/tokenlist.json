@@ -1021,6 +1021,12 @@
         "name": "Euler",
         "symbol": "EUL",
         "decimals": 18
+      },
+      {
+        "address": "0x602BaeaB9B0DE4a99C457cf1249088932AA04FaC",
+        "name": "Brunch USD",
+        "symbol": "bUSD",
+        "decimals": 18
       }
     ]
   ]
