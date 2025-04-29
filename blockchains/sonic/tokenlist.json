@@ -1027,6 +1027,12 @@
         "name": "Brunch USD",
         "symbol": "bUSD",
         "decimals": 18
+      },
+      {
+        "address": "0xd70c020c48403295100884ee47db80d51BAA9d87",
+        "name": "Beefy Gems Season 1",
+        "symbol": "beGEMS1",
+        "decimals": 18
       }
     ]
   ]
