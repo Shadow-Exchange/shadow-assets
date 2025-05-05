@@ -1033,6 +1033,12 @@
         "name": "Beefy Gems Season 1",
         "symbol": "beGEMS1",
         "decimals": 18
+      },
+      {
+        "address": "0x16a0BfC1C6e331788E0A5096911cDCd9943D2C9c",
+        "name": "SDEAMON",
+        "symbol": "sDeamon",
+        "decimals": 18
       }
     ]
   ]
