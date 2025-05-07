@@ -1039,6 +1039,12 @@
         "name": "SDEAMON",
         "symbol": "sDeamon",
         "decimals": 18
+      },
+      {
+        "address": "0xb098AFC30FCE67f1926e735Db6fDadFE433E61db",
+        "name": "Silo Token",
+        "symbol": "SILO",
+        "decimals": 18
       }
     ]
   ]
