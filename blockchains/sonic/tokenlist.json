@@ -1039,6 +1039,12 @@
         "name": "Silo Token",
         "symbol": "SILO",
         "decimals": 18
+      },
+      {
+        "address": "0xA052cC4dD2138504Dd89E723D72636D491b4cEd9",
+        "name": "Milk",
+        "symbol": "MILK",
+        "decimals": 18
       }
     ]
   ]
