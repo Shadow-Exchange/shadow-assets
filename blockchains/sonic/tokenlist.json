@@ -1045,6 +1045,12 @@
         "name": "Milk",
         "symbol": "MILK",
         "decimals": 18
+      },
+      {
+        "address": "0xe67a33F6ad2902F3f582430C2901a1f709d82891",
+        "name": "Milk",
+        "symbol": "MILK",
+        "decimals": 18
       }
     ]
   ]
