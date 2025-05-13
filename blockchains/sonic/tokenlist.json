@@ -1045,6 +1045,12 @@
         "name": "Milk",
         "symbol": "MILK",
         "decimals": 18
+      },
+      {
+        "address": "0x8CF5574F431686aCA87bb393d8e50D77a5c51618",
+        "name": "lazy fish",
+        "symbol": "FISH",
+        "decimals": 18
       }
     ]
   ]
