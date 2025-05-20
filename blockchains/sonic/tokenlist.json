@@ -1051,6 +1051,12 @@
         "name": "lazy fish",
         "symbol": "FISH",
         "decimals": 18
+      },
+      {
+        "address": "0x4772D2e014F9fC3a820C444e3313968e9a5C8121",
+        "name": "YieldFi yUSD",
+        "symbol": "yUSD",
+        "decimals": 18
       }
     ]
   ]
