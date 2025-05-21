@@ -1069,6 +1069,12 @@
         "name": "SAMURAI",
         "symbol": "SAM",
         "decimals": 18
+      },
+      {
+        "address": "0xD259C1ae13e4AcD745556913D044f08542418875",
+        "name": "Moth",
+        "symbol": "Moth",
+        "decimals": 18
       }
     ]
   ]
