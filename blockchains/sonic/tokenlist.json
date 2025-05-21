@@ -1075,6 +1075,12 @@
         "name": "Moth",
         "symbol": "Moth",
         "decimals": 18
+      },
+      {
+        "address": "0x2D0E0814E62D80056181F5cd932274405966e4f0",
+        "name": "Beets",
+        "symbol": "BEETS",
+        "decimals": 18
       }
     ]
   ]
