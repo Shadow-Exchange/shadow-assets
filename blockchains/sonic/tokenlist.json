@@ -1063,6 +1063,12 @@
         "name": "CERUS",
         "symbol": "CERUS",
         "decimals": 18
+      },
+      {
+        "address": "0xCC5D9cc0d781d7F41F6809c0E8356C15942b775E",
+        "name": "SAMURAI",
+        "symbol": "SAM",
+        "decimals": 18
       }
     ]
   ]
