@@ -1081,6 +1081,12 @@
         "name": "Beets",
         "symbol": "BEETS",
         "decimals": 18
+      },
+      {
+        "address": "0x3F78599a7C0fb772591540225d3C6a7831547a12",
+        "name": "Sonic Llamas",
+        "symbol": "SLL",
+        "decimals": 18
       }
     ]
   ]
