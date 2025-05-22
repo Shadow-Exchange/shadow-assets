@@ -1087,6 +1087,12 @@
         "name": "Sonic Llamas",
         "symbol": "SLL",
         "decimals": 18
+      },
+      {
+        "address": "0xBe387ef725372e128BB27ddB0723CeE4753c9e69",
+        "name": "Chat3",
+        "symbol": "CHAT3",
+        "decimals": 18
       }
     ]
   ]
