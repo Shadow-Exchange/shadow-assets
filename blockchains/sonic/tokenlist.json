@@ -1087,6 +1087,12 @@
         "name": "Chat3",
         "symbol": "CHAT3",
         "decimals": 18
+      },
+      {
+        "address": "0x5A026eA79cdA77007a474d7e5b66A663721f7979",
+        "name": "Super Champs",
+        "symbol": "CHAMP",
+        "decimals": 18
       }
     ]
   ]
