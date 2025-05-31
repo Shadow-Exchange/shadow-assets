@@ -1093,6 +1093,12 @@
         "name": "Super Champs",
         "symbol": "CHAMP",
         "decimals": 18
+      },
+      {
+        "address": "0xd4aA386bfCEEeDd9De0875B3BA07f51808592e22",
+        "name": "Eliteness.Network/eliteRingsScUSD",
+        "symbol": "eliteRingsScUSD",
+        "decimals": 6
       }
     ]
   ]
