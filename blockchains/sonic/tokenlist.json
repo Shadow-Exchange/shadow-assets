@@ -1099,6 +1099,12 @@
         "name": "Eliteness.Network/eliteRingsScUSD",
         "symbol": "eliteRingsScUSD",
         "decimals": 6
+      },
+      {
+        "address": "0x001bFF4b6da770f445A740227224D3c8b48e6fb2",
+        "name": "LoopBurn",
+        "symbol": "LBP",
+        "decimals": 18
       }
     ]
   ]
