@@ -1105,6 +1105,12 @@
         "name": "LoopBurn",
         "symbol": "LBP",
         "decimals": 18
+      },
+      {
+        "address": "0x13f2131b772D74a3c343a2bd09422f4cd969DcB0",
+        "name": "Aquatic ",
+        "symbol": "AQUA",
+        "decimals": 18
       }
     ]
   ]
