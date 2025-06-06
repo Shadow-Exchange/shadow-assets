@@ -1111,6 +1111,12 @@
         "name": "Aquatic ",
         "symbol": "AQUA",
         "decimals": 18
+      },
+      {
+        "address": "0x9138a8733DCe2E877F430B7500e3c229aD7599d9",
+        "name": "Atlantis AQUA Token",
+        "symbol": "AQUA",
+        "decimals": 18
       }
     ]
   ]
