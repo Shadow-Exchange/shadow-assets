@@ -1123,6 +1123,12 @@
         "name": "YELToken",
         "symbol": "YEL",
         "decimals": 18
+      },
+      {
+        "address": "0xd4eee4c318794bA6FFA7816A850a166FFf8310a9",
+        "name": "DRE Finance",
+        "symbol": "DRE",
+        "decimals": 18
       }
     ]
   ]
