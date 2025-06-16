@@ -1129,6 +1129,12 @@
         "name": "Main Street USD",
         "symbol": "msUSD",
         "decimals": 18
+      },
+      {
+        "address": "0x3710b212B39477DF2deaadCf16ef56C384A3d142",
+        "name": "Braindead Digital USDC",
+        "symbol": "bdUSDC",
+        "decimals": 18
       }
     ]
   ]
