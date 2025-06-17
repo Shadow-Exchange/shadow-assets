@@ -279,12 +279,6 @@
         "decimals": 18
       },
       {
-        "address": "0x7AD5935EA295c4E743e4f2f5B4CDA951f41223c2",
-        "name": "Sacra token",
-        "symbol": "SACRA",
-        "decimals": 18
-      },
-      {
         "address": "0x068e9e009fDa970fA953E1f6a43D982cA991F4bA",
         "name": "Whale",
         "symbol": "WHALE",
