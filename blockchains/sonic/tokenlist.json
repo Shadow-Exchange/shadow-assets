@@ -1141,6 +1141,12 @@
         "name": "HLP0",
         "symbol": "HLP0",
         "decimals": 6
+      },
+      {
+        "address": "0xb4818BB69478730EF4e33Cc068dD94278e2766cB",
+        "name": "Satoshi Stablecoin V2",
+        "symbol": "satUSD",
+        "decimals": 18
       }
     ]
   ]
