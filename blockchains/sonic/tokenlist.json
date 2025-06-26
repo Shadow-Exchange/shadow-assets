@@ -1153,6 +1153,12 @@
         "name": "zkSwap Finance",
         "symbol": "ZF",
         "decimals": 18
+      },
+      {
+        "address": "0x123468b48EADbC13c65cd9c66A9913cdE4e94321",
+        "name": "Long",
+        "symbol": "LONG",
+        "decimals": 18
       }
     ]
   ]
