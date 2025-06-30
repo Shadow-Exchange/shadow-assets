@@ -1159,6 +1159,12 @@
         "name": "Long",
         "symbol": "LONG",
         "decimals": 18
+      },
+      {
+        "address": "0x3E08Cb3067dC198FC313E1789347c9AE72c079d4",
+        "name": "Womo",
+        "symbol": "WM",
+        "decimals": 18
       }
     ]
   ]
