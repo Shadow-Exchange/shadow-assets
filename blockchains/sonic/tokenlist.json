@@ -1171,6 +1171,12 @@
         "name": "Liquid Staked Rezerve.money",
         "symbol": "lstRZR",
         "decimals": 18
+      },
+      {
+        "address": "0xF6F87073cF8929C206A77b0694619DC776F89885",
+        "name": "Varlamore USDC Growth",
+        "symbol": "vgUSDC",
+        "decimals": 18
       }
     ]
   ]
