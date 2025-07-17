@@ -1177,6 +1177,12 @@
         "name": "Varlamore USDC Growth",
         "symbol": "vgUSDC",
         "decimals": 18
+      },
+      {
+        "address": "0x683bad804e59698c092c5BbedBAf362FF3c4B546",
+        "name": "HOLOGRAMDRE",
+        "symbol": "HOLDRE",
+        "decimals": 18
       }
     ]
   ]
