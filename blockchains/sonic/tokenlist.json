@@ -1189,6 +1189,12 @@
         "name": "xSILO",
         "symbol": "xSILO",
         "decimals": 18
+      },
+      {
+        "address": "0xF03fA1C72aE83e22297321f5D34aE47825Af8BEe",
+        "name": "DumbAss",
+        "symbol": "$DUMB",
+        "decimals": 18
       }
     ]
   ]
