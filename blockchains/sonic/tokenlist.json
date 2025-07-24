@@ -1183,6 +1183,12 @@
         "name": "HOLOGRAMDRE",
         "symbol": "HOLDRE",
         "decimals": 18
+      },
+      {
+        "address": "0x4451765739b2D7BCe5f8BC95Beaf966c45E1Dcc9",
+        "name": "xSILO",
+        "symbol": "xSILO",
+        "decimals": 18
       }
     ]
   ]
