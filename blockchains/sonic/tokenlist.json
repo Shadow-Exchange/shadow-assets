@@ -1195,6 +1195,12 @@
         "name": "DumbAss",
         "symbol": "$DUMB",
         "decimals": 18
+      },
+      {
+        "address": "0xf520D737dC03e0dFB81350C6Fd27479dd75Db88D",
+        "name": "Liquid Sonic Drop",
+        "symbol": "LSD",
+        "decimals": 18
       }
     ]
   ]
