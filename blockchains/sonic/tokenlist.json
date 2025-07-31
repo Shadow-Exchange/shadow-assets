@@ -1201,6 +1201,12 @@
         "name": "Liquid Sonic Drop",
         "symbol": "LSD",
         "decimals": 18
+      },
+      {
+        "address": "0x4Cae73a23078e7A94D1e828Fa3bABa5080c04FcA",
+        "name": "Amped Finance",
+        "symbol": "AMPED",
+        "decimals": 18
       }
     ]
   ]
