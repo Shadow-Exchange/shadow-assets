@@ -1213,12 +1213,6 @@
         "name": "Greenhouse USDC",
         "symbol": "ghUSDC",
         "decimals": 18
-      },
-      {
-        "address": "0xEc26D07B5c0a99D3690375A2CC229E5B943e7726",
-        "name": "Credix Market Sonic USDC",
-        "symbol": "acUSDC",
-        "decimals": 6
       }
     ]
   ]
