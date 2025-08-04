@@ -1213,7 +1213,247 @@
         "name": "Greenhouse USDC",
         "symbol": "ghUSDC",
         "decimals": 18
-      }
+      },
+      {
+        "name": "Warner Bros. Discovery Inc Tokenized by Sailing",
+        "address": "0x7DE6dBa1F72cFEec212D585492656400AB5cC2f3",
+        "symbol": "WBDs",
+        "decimals": 18
+      },
+      {
+        "name": "YieldMax Universe Fund of Option Income ETFs Tokenized by Sailing",
+        "address": "0x2e09Da43E9e0a00164c8D8c239Cfc959699ae636",
+        "symbol": "YMAXs",
+        "decimals": 18
+      },
+      {
+        "name": "YieldMax Short COIN Option Income Strategy ETF Tokenized by Sailing",
+        "address": "0xe7372d303F3087d3341F3359C63e99b590793442",
+        "symbol": "FIATs",
+        "decimals": 18
+      },
+      {
+        "name": "Roundhill S&P 500 0DTE Covered Call Strategy ETF Tokenized by Sailing",
+        "address": "0x538A82863e2a6F144Ec14720Ccf3Fd794E463e03",
+        "symbol": "XDTEs",
+        "decimals": 18
+      },
+      {
+        "name": "NEOS S&P 500 High Income ETF Tokenized by Sailing",
+        "address": "0x36b9dF2e1C6d52BD426174c402eDE6d54bc2a9D8",
+        "symbol": "SPYIs",
+        "decimals": 18
+      },
+      {
+        "name": "YPF S.A. Tokenized by Sailing",
+        "address": "0x2D46544b553236Bf2fF5F9066854fa0029F776c3",
+        "symbol": "YPFs",
+        "decimals": 18
+      },
+      {
+        "name": "Boeing Company Tokenized by Sailing",
+        "address": "0x0A51e4b18D323aC66Bce3058da17B3fa819DF4CF",
+        "symbol": "BAs",
+        "decimals": 18
+      },
+      {
+        "name": "Lockheed Martin Corporation Tokenized by Sailing",
+        "address": "0xaE1770407904cE14D998EAe0aA07bCf9a3a2b33a",
+        "symbol": "LMTs",
+        "decimals": 18
+      },
+      {
+        "name": "Nvidia Corporation Tokenized by Sailing",
+        "address": "0xAEBeb25DeA818C7f054c4B87e192A990cc7f70A0",
+        "symbol": "NVDAs",
+        "decimals": 18
+      },
+      {
+        "name": "The Goldman Sachs Group Inc Tokenized by Sailing",
+        "address": "0x1fE638eC6eF5F734c91244F36d664f747864EF50",
+        "symbol": "GSs",
+        "decimals": 18
+      },
+      {
+        "name": "Microsoft Corporation Tokenized by Sailing",
+        "address": "0xe9884E8E581461efA562B915FBa21f8Bf69dd9cF",
+        "symbol": "MSFTs",
+        "decimals": 18
+      },
+      {
+        "name": "BlackRock Inc Tokenized by Sailing",
+        "address": "0xd29Ebd340AEfD2fb781B0c856623b3E41E7F8a8b",
+        "symbol": "BLKs",
+        "decimals": 18
+      },
+      {
+        "name": "Dynatrace Inc Tokenized by Sailing",
+        "address": "0x65A7B513e41708Cd10e803Cf9e364403E11eEffB",
+        "symbol": "DTs",
+        "decimals": 18
+      },
+      {
+        "name": "Palantir Technologies Inc Tokenized by Sailing",
+        "address": "0x135a19149728fB27349f8D3872163c3eB005cF74",
+        "symbol": "PLTRs",
+        "decimals": 18
+      },
+      {
+        "name": "MicroStrategy Inc Tokenized by Sailing",
+        "address": "0x58a4F4a0fDB10fAECd1C73A1EeB832812489DaBC",
+        "symbol": "MSTRs",
+        "decimals": 18
+      },
+      {
+        "name": "Coinbase Global Inc Tokenized by Sailing",
+        "address": "0x2CD00602C063f4aFc1672DD0d8BE1d26072056E2",
+        "symbol": "COINs",
+        "decimals": 18
+      },
+      {
+        "name": "The Walt Disney Company Tokenized by Sailing",
+        "address": "0x4cD3De31d1301021da5cE0Db33CeC5A73767075E",
+        "symbol": "DISs",
+        "decimals": 18
+      },
+      {
+        "name": "Upstart Holdings Inc Tokenized by Sailing",
+        "address": "0xBca36Ae0090f6d6ACC3784cB3e3f431294820dC4",
+        "symbol": "UPSTs",
+        "decimals": 18
+      },
+      {
+        "name": "AMC Entertainment Holdings Inc Tokenized by Sailing",
+        "address": "0x566Eb609a521aFA6213F046e439037dAD85d9747",
+        "symbol": "AMCs",
+        "decimals": 18
+      },
+      {
+        "name": "McDonald's Tokenized by Sailing",
+        "address": "0xb2748DaBDaA3203EfC486cF7890F7b9A0234480A",
+        "symbol": "MCDs",
+        "decimals": 18
+      },
+      {
+        "name": "GameStop Corp Tokenized by Sailing",
+        "address": "0x425ADBdcb427E8c1bCB99960c8106E3396dC510a",
+        "symbol": "GMEs",
+        "decimals": 18
+      },
+      {
+        "name": "YieldMax COIN Option Income Strategy ETF Tokenized by Sailing",
+        "address": "0x9a00a4a3ddb6504039825DD621adf75F020696Ba",
+        "symbol": "CONYs",
+        "decimals": 18
+      },
+      {
+        "name": "Amazon.com Inc Tokenized by Sailing",
+        "address": "0x59730C5a1223E5332E45A2959c5D95b2B99218D6",
+        "symbol": "AMZNs",
+        "decimals": 18
+      },
+      {
+        "name": "Circle Internet Group Inc Tokenized by Sailing",
+        "address": "0xB0dfd17DAf23926d618BfD43772A19E7212d34E6",
+        "symbol": "CRCLs",
+        "decimals": 18
+      },
+      {
+        "name": "Apple Inc Tokenized by Sailing",
+        "address": "0xd96eaAe0225Bad65C6Ae90b87C4957D4dbae4B07",
+        "symbol": "AAPLs",
+        "decimals": 18
+      },
+      {
+        "name": "Meta Platforms Inc Tokenized by Sailing",
+        "address": "0x70a81b2B34e5Cb3ae39e0F05B6A367Deb8cA2F4a",
+        "symbol": "METAs",
+        "decimals": 18
+      },
+      {
+        "name": "Tesla Inc Tokenized by Sailing",
+        "address": "0xa6057499b23c476E6a5204c7D5A5C014E7921204",
+        "symbol": "TSLAs",
+        "decimals": 18
+      },
+      {
+        "name": "MercadoLibre Inc. Tokenized by Sailing",
+        "address": "0xBa021E57Da13Fa03738Bd9E4BF400Ca08A61E353",
+        "symbol": "MELIs",
+        "decimals": 18
+      },
+      {
+        "name": "Paramount Global Tokenized by Sailing",
+        "address": "0xC8980Da85BF2954c313c2bE327a16bC67CD168D3",
+        "symbol": "PARAs",
+        "decimals": 18
+      },
+      {
+        "name": "Grupo Supervielle SA Tokenized by Sailing",
+        "address": "0x037d8001C4b218B837E7b1052b6d48517BCA5156",
+        "symbol": "SUPVs",
+        "decimals": 18
+      },
+      {
+        "name": "DLocal Ltd Tokenized by Sailing",
+        "address": "0x3FE8F972767C88726b1efAD0862107CacEfB86E6",
+        "symbol": "DLOs",
+        "decimals": 18
+      },
+      {
+        "name": "ARK Innovation ETF Tokenized by Sailing",
+        "address": "0xeAA18659783287052D5bAeDc23EEb95a57e651b5",
+        "symbol": "ARKKs",
+        "decimals": 18
+      },
+      {
+        "name": "Goldman Sachs Physical Gold ETF Tokenized by Sailing",
+        "address": "0x5D5cD07D937a63e76C222c90286b6e8522CF26D2",
+        "symbol": "AAAUs",
+        "decimals": 18
+      },
+      {
+        "name": "Ginkgo Bioworks Inc Tokenized by Sailing",
+        "address": "0xeB44A2dCB4Ab00494b605deD93afC02C09ac9A62",
+        "symbol": "DNAs",
+        "decimals": 18
+      },
+      {
+        "name": "Invesco QQQ Trust Tokenized by Sailing",
+        "address": "0x422247B3be45a35dbC0F60f298Db0cBA06FbAF85",
+        "symbol": "QQQs",
+        "decimals": 18
+      },
+      {
+        "name": "SPDR S&P 500 ETF Trust Tokenized by Sailing",
+        "address": "0xCB0f5C39B2712C1F58c5103C4423990d184B9A7A",
+        "symbol": "SPYs",
+        "decimals": 18
+      },
+      {
+        "name": "United States Natural Gas Fund LP Tokenized by Sailing",
+        "address": "0x71dE4aBF98778876ec9e6c6E7BDa47dbDFae38EC",
+        "symbol": "UNGs",
+        "decimals": 18
+      },
+      {
+        "name": "Uber Technologies Inc Tokenized by Sailing",
+        "address": "0x6494eb9cb227EEbAc39be833e4Eb283602A69621",
+        "symbol": "UBERs",
+        "decimals": 18
+      },
+      {
+        "name": "Airbnb Inc Tokenized by Sailing",
+        "address": "0x05D9f784Fda836E7DfB4B929119d2bDF97925fA4",
+        "symbol": "ABNBs",
+        "decimals": 18
+      },
+      {
+        "name": "BYD Company Limited Tokenized by Sailing",
+        "address": "0x0fBB1a89c542EE44b94b2528C96Fe885327303f0",
+        "symbol": "BYDs",
+        "decimals": 18
+      }  
     ]
   ]
 }
