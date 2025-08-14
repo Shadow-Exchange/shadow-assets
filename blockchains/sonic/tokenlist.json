@@ -1459,6 +1459,12 @@
         "address": "0xb6a222943bbd717fef61728461207ec0c6756a85",
         "symbol": "SAIL",
         "decimals": 18
+      },
+      {
+        "address": "0xb6A222943Bbd717FEf61728461207ec0c6756A85",
+        "name": "Sailing",
+        "symbol": "SAIL",
+        "decimals": 18
       }
     ]
   ]
