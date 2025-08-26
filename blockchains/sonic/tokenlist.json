@@ -1465,6 +1465,12 @@
         "name": "Sailing",
         "symbol": "SAIL",
         "decimals": 18
+      },
+      {
+        "address": "0x508a84aa7895a58eAD77012c60d8cb8beFc7DBdE",
+        "name": "Sado",
+        "symbol": "SADO",
+        "decimals": 18
       }
     ]
   ]
