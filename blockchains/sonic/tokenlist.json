@@ -1471,6 +1471,12 @@
         "name": "Sado",
         "symbol": "SADO",
         "decimals": 18
+      },
+      {
+        "address": "0x39610C5479277A347b38a32827F400E054F0652b",
+        "name": "Nest",
+        "symbol": "NEST",
+        "decimals": 18
       }
     ]
   ]
