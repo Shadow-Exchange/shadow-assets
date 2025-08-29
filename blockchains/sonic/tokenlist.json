@@ -1477,6 +1477,12 @@
         "name": "Nest",
         "symbol": "NEST",
         "decimals": 18
+      },
+      {
+        "address": "0xC326D1505ce0492276f646B03FE460c43A892185",
+        "name": "U$D",
+        "symbol": "U$D",
+        "decimals": 6
       }
     ]
   ]
