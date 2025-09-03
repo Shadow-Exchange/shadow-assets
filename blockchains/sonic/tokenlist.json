@@ -1483,6 +1483,12 @@
         "name": "U$D",
         "symbol": "U$D",
         "decimals": 6
+      },
+      {
+        "address": "0x725b173519530F94bF77455B596ACb54d007bc26",
+        "name": "Yolk",
+        "symbol": "YOLK",
+        "decimals": 18
       }
     ]
   ]
