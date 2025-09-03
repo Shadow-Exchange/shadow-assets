@@ -1489,6 +1489,12 @@
         "name": "Yolk",
         "symbol": "YOLK",
         "decimals": 18
+      },
+      {
+        "address": "0x83a6d8D9aa761e7e08EBE0BA5399970f9e8F61D9",
+        "name": "Numa",
+        "symbol": "NUMA",
+        "decimals": 18
       }
     ]
   ]
