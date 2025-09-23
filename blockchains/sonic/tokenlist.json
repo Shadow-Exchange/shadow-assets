@@ -1495,6 +1495,12 @@
         "name": "Numa",
         "symbol": "NUMA",
         "decimals": 18
+      },
+      {
+        "address": "0x01fd763618E555A7118F1d1144C88113A5C34e64",
+        "name": "LoopFuse",
+        "symbol": "LFD",
+        "decimals": 18
       }
     ]
   ]
