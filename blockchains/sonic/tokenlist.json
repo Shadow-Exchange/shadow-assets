@@ -1513,6 +1513,12 @@
         "name": "BOLD Stablecoin",
         "symbol": "BOLD",
         "decimals": 18
+      },
+      {
+        "address": "0x73217D90C53d2413c8225fF186A83F89B643D561",
+        "name": "Soneta",
+        "symbol": "STA",
+        "decimals": 18
       }
     ]
   ]
