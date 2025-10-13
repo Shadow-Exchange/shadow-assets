@@ -1501,6 +1501,12 @@
         "name": "LoopFuse",
         "symbol": "LFD",
         "decimals": 18
+      },
+      {
+        "address": "0x8ed344E89527C6cE382fd1E23B4D6D4c2865b6A9",
+        "name": "ONE Stablecoin",
+        "symbol": "ONE",
+        "decimals": 18
       }
     ]
   ]
