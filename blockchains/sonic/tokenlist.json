@@ -1519,6 +1519,12 @@
         "name": "Soneta",
         "symbol": "STA",
         "decimals": 18
+      },
+      {
+        "address": "0xEdF8b632b537d5993Adb5e2E15882CD791c284cB",
+        "name": "Fantom Bomb",
+        "symbol": "fBOMB",
+        "decimals": 18
       }
     ]
   ]
