@@ -1525,6 +1525,12 @@
         "name": "Fantom Bomb",
         "symbol": "fBOMB",
         "decimals": 18
+      },
+      {
+        "address": "0x326dda139a77745eFF481F2763E73F741bAafe52",
+        "name": "HasLili Soul Token",
+        "symbol": "HLI",
+        "decimals": 18
       }
     ]
   ]
