@@ -1531,6 +1531,12 @@
         "name": "HasLili Soul Token",
         "symbol": "HLI",
         "decimals": 18
+      },
+      {
+        "address": "0x5DD1A7A369e8273371d2DBf9d83356057088082c",
+        "name": "Flying Tulip",
+        "symbol": "FT",
+        "decimals": 18
       }
     ]
   ]
