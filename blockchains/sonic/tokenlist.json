@@ -1531,6 +1531,12 @@
         "name": "HasLili Soul Token",
         "symbol": "HLI",
         "decimals": 18
+      },
+      {
+        "address": "0x56F39E624ec9894D1Fd5A14074Bc181B2Daa1BAc",
+        "name": "",
+        "symbol": "",
+        "decimals": 18
       }
     ]
   ]
