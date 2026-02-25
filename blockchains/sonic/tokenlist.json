@@ -1537,6 +1537,12 @@
         "name": "Flying Tulip",
         "symbol": "FT",
         "decimals": 18
+      },
+      {
+        "address": "0xeA9a89b0Ca8A321Ec04ccbCca4f680461b5BD156",
+        "name": "WinterStelth",
+        "symbol": "WS",
+        "decimals": 6
       }
     ]
   ]
