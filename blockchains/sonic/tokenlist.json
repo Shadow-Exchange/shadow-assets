@@ -1161,12 +1161,6 @@
         "decimals": 18
       },
       {
-        "address": "0x3E08Cb3067dC198FC313E1789347c9AE72c079d4",
-        "name": "Womo",
-        "symbol": "WM",
-        "decimals": 18
-      },
-      {
         "address": "0x67A298e5B65dB2b4616E05C3b455E017275f53cB",
         "name": "Liquid Staked Rezerve.money",
         "symbol": "lstRZR",
