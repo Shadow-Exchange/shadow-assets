@@ -1537,6 +1537,12 @@
         "name": "WinterStelth",
         "symbol": "WS",
         "decimals": 6
+      },
+      {
+        "address": "0x000000000eCcFf26B795F73fb0A70d48da657fEf",
+        "name": "US Sonic Dollar",
+        "symbol": "USSD",
+        "decimals": 18
       }
     ]
   ]
