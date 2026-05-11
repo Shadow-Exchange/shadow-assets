@@ -1555,6 +1555,12 @@
         "name": "evaUSDT",
         "symbol": "evaUSDT",
         "decimals": 6
+      },
+      {
+        "address": "0x39838b880BA948C49aaB7253f61Ce1e00C30c014",
+        "name": "FUCKMULTI",
+        "symbol": "fMULTI",
+        "decimals": 18
       }
     ]
   ]
