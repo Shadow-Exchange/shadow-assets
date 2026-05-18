@@ -1561,6 +1561,12 @@
         "name": "FUCKMULTI",
         "symbol": "fMULTI",
         "decimals": 18
+      },
+      {
+        "address": "0x70e7f1d907E30efb18FE1DD8A1d75c09A98177d3",
+        "name": "JEFE TOKEN",
+        "symbol": "JEFE",
+        "decimals": 9
       }
     ]
   ]
