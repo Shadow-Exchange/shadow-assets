@@ -1567,6 +1567,12 @@
         "name": "JEFE TOKEN",
         "symbol": "JEFE",
         "decimals": 9
+      },
+      {
+        "address": "0xF7D85EC4E7710f71992752eac2111312e73E9C9C",
+        "name": "Flying Tulip USD",
+        "symbol": "ftUSD",
+        "decimals": 6
       }
     ]
   ]
